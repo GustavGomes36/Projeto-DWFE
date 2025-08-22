@@ -1,2 +1,2 @@
-# Projeto-DWFE
-Projeto em desenvolvimento na disciplica de Desenvolvimento Web Front-End
+# <h1 align="center"> Enciclopédia Regional </h1>
+
